@@ -15,7 +15,7 @@ I also learn how to use the Python libraries NumPy, Pandas, and Matplotlib to wr
 
 ## Project - Explore Titanic Data
 
-I went through data analysis process on Titanic data from Kaggle. I explored effect of different factors such as age, gender, class, cabin, etc. on survival. [Check it out!]()
+I went through data analysis process on Titanic dataset from Kaggle. I explored the effect of different factors such as age, gender, class, family size on survival. [Check it out!](https://anaconda.org/wangxbl/data_analysis_final_project/notebook)
 
 ### Built with:
 
